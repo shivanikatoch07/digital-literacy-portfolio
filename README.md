@@ -52,7 +52,7 @@ This repository contains my Digital Literacy project completed as part of the CS
 
 ## Links
 - GitHub Profile: https://github.com/shivanikatoch07
-- LinkedIn Profile:  https://www.linkedin.com/in/shivani-katoch-a9559637b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn Profile:  www.linkedin.com/in/shivani-katoch-a9559637b
 - Google Form Link: https://forms.gle/AhMBGaZZTGwpD3TLA
 
 
