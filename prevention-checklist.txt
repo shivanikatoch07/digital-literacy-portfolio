@@ -1,0 +1,12 @@
+Cybercrime Prevention Checklist
+
+- Do not share OTP or passwords with anyone
+- Verify website URLs before entering personal details
+- Use strong and unique passwords
+- Enable two-factor authentication (2FA)
+- Avoid clicking on unknown or suspicious links
+- Do not open emails from unknown sources
+- Use trusted websites and applications only
+- Keep your device and software updated
+- Log out from shared or public devices
+- Report suspicious activity immediately
